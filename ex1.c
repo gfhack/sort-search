@@ -1,7 +1,7 @@
 /*
-Ordering three values with three condicional structures
+Ordering three values with three condicional structures 
 */
-
+/*including standard libraries*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
